@@ -21,9 +21,11 @@ span{
 .half-width{
     width:50%;
     padding-left:0;
+    margin-left: 40px;
+    margin-top: 70px;
 }
 .half-width img{
-    width:80%;
+    width:90%;
 }
 .link-add{
     text-decoration: none;
@@ -37,10 +39,10 @@ span{
 .side-width{
     width:100%;
     padding:5px;
-    margin-left:90px;
+    margin-left:70px;
 }
 .side-width img{
-    width:40%;
+    width:46.5%;
 }
 .mid-banner{
     background-image:url(images/def.png);
@@ -51,7 +53,6 @@ span{
 }
 .recipe-box{
     width:20%;
-    height: 40%;
     margin-left: 5%;
     margin-right:5%;
     box-shadow: 10px 10px 30px gray;
@@ -68,8 +69,10 @@ span{
     border-radius:50px;
 }
 .recipe-container{
-    float:left;
+    float:right;
 }
 footer p{
     text-align: center;
+    background:black;
+    color: blanchedalmond;
 }
